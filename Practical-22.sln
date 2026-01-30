@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeDAL", "EmployeeDAL\EmployeeDAL.csproj", "{CC069664-5C2C-4E89-B9BA-30F4D64DE942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeAPI", "EmployeeAPI\EmployeeAPI.csproj", "{70091372-56DB-460E-BF33-184DDDDA7354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC069664-5C2C-4E89-B9BA-30F4D64DE942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC069664-5C2C-4E89-B9BA-30F4D64DE942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC069664-5C2C-4E89-B9BA-30F4D64DE942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC069664-5C2C-4E89-B9BA-30F4D64DE942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70091372-56DB-460E-BF33-184DDDDA7354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70091372-56DB-460E-BF33-184DDDDA7354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70091372-56DB-460E-BF33-184DDDDA7354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70091372-56DB-460E-BF33-184DDDDA7354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FC8C486-A966-46B3-95BD-8748A2A1D076}
+	EndGlobalSection
+EndGlobal

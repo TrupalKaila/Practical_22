@@ -1,0 +1,23 @@
+13-05-2025 15:35:33: Fetched employee with ID 1
+13-05-2025 15:35:41: Fetched all employees
+13-05-2025 15:37:30: Created employee Tejas
+13-05-2025 15:37:47: Fetched all employees
+13-05-2025 15:38:00: Fetched employee with ID 1
+13-05-2025 15:41:07: Soft deleted employee ID 1
+13-05-2025 15:41:16: Fetched all employees
+30-01-2026 14:30:57: Fetched all employees
+30-01-2026 14:31:08: Fetched employee with ID 4
+30-01-2026 14:31:22: Soft deleted employee ID 7
+30-01-2026 14:31:41: Soft deleted employee ID 6
+30-01-2026 14:40:01: Updated employee ID 8
+30-01-2026 14:40:27: Updated employee ID 8
+30-01-2026 14:40:47: Updated employee ID 0
+30-01-2026 14:41:13: Created employee aaa
+30-01-2026 14:41:17: Created employee aaa
+30-01-2026 14:41:22: Created employee aaa
+30-01-2026 14:42:05: Updated employee ID 8
+30-01-2026 14:42:25: Updated employee ID 8
+30-01-2026 14:43:54: Soft deleted employee ID 8
+30-01-2026 14:45:32: Updated employee ID 8
+30-01-2026 14:49:04: Updated employee ID 10
+30-01-2026 14:49:53: Soft deleted employee ID 5
